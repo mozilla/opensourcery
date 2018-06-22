@@ -4,11 +4,11 @@
 
 **AE**: 3.5°P (1.014)
 
-**BU**: 40-45
+**IBU**: 40-45
 
 **COLOR**: 5
 
-**YEAST**: 1272
+**YEAST**: Wyeast 1272 American Ale II
 
 **ABV**: 6.50%
 
