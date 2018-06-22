@@ -18,7 +18,7 @@ Malt | lbs  | % of malt
 2 Row  | 6.00  | 53%
 Pilsner Malt  | 4.50  | 40%
 Flaked Oats  | 0.75  | 7%
-**Total** | | 11.25
+**Total** | 11.25 | 100%
 
 **Assumes BH Efficiency of 85%*
 		
