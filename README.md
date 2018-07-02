@@ -1,5 +1,7 @@
 # Mozilla x WBB "OpenSourcery" 5.5 Gal Recipe
 
+This recipe is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/)
+
 **OG**: 15.5°P (1.063)
 
 **AE**: 3.5°P (1.014)
