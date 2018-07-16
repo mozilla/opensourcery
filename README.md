@@ -2,9 +2,9 @@
 
 This recipe is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/)
 
-**OG**: 15.5°P (1.063)
+**ORIGINAL GRAVITY**: 1.063 (15.5°P)
 
-**AE**: 3.5°P (1.014)
+**FINAL GRAVITY**: 1.014 (3.5°P apparent extract)
 
 **IBU**: 40-45
 
@@ -22,19 +22,19 @@ Pilsner Malt  | 4.50  | 40%
 Flaked Oats  | 0.75  | 7%
 **Total** | 11.25 | 100%
 
-**Assumes BH Efficiency of 85%*
-		
+**Brewhouse Efficiency: 85%**
+
 ## Hops
 
 * No Hops at Boil
-* 2nd Hops (15 before end of Boil)
+* 2nd Hops @ 15 mins before end of Boil
 	* Comet 0.8 oz
 	* Idaho 7 0.5 oz
-* 3rd Hops @WHP (Whole Leaf)
+* 3rd Hops @ Whirlpool (Whole Leaf)
 	* Comet 1.7 oz
 	* Idaho 1.7 oz
-	* Chinook 1.7 oz	
-* Dry Hop at TG and Post VDK check
+	* Chinook 1.7 oz
+* Dry Hop once final gravity is reached
 	* Idaho 7 0.8 oz
 	* Comet 	0.5 oz
 	* Azacca 	1.3 oz
@@ -43,9 +43,9 @@ Flaked Oats  | 0.75  | 7%
 
 ## Process
 
-Crash after 24 hours hop contact 
+Cold Crash after 24 hours hop contact
 
-Rack off after min 4 days cold 	
+Rack off after minimum 4 days cold
 
 **Mash Temp & Rest**: 138°F (30 minutes)
 
@@ -59,7 +59,7 @@ Rack off after min 4 days cold
 
 Ferment at 68°F
 
-Free Rise when beer is at 6°P
+Free Rise when beer is at 1.024 (6°P)
 
 Whirlfloc: 0.9g
 
